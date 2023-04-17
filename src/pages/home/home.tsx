@@ -18,7 +18,7 @@ const Home = () => {
       <Nav />
 
       {/* products */}
-      <Slider items = {products.slice(0,3)} />
+      <Slider items = {products.slice(5)} />
     </div>
   )
 }
